@@ -120,7 +120,7 @@ export const homePageSpecialitiesData = [
 export const homePageServiceData = [
   {
     title: "Orthopedic",
-    src: "./public/image/home-service/orthopedic-treatment.jpg",
+    src: "/public/image/home-service/orthopedic-treatment.jpg",
     style: {},
     content: "Providing professional, affordable orthopedic care focused on restoring mobility and ensuring optimal outcomes.",
   },
