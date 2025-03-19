@@ -10,25 +10,25 @@ export const slideData = [
       content:'Providing professional, affordable orthopedic care focused on restoring mobility and ensuring optimal outcomes.'
     },
     {
-      src: "./image/slider/doctors.jpg",
+      src: "./public/image/slider/doctors.jpg",
       alt: "Doctors",
       style: { backgroundPosition: "top" },
       content:"Accurate X-Ray and blood diagnostics, now conveniently available at your doorstep."
     },
     {
-      src: "./image/slider/healthcare-concept-clinic.jpg",
+      src: "./public/image/slider/healthcare-concept-clinic.jpg",
       alt: "Healthcare clinic",
       style: { backgroundPosition: "center" },
       content:"Restoring strength and mobility with expert physiotherapy care, now available at your doorstep"
     },
     {
-      src: "./image/slider/doctors-working.jpg",
+      src: "./public/image/slider/doctors-working.jpg",
       alt: "Operations",
       style: { backgroundPosition: "top" },
       content:'Serving Humanity With Comprehensive Cutting-Edge Treatment'
     },
     {
-      src: "./image/slider/physio.jpg",
+      src: "./public/image/slider/physio.jpg",
       alt: "Physiotherapy",
       style: { backgroundPosition: "center" },
       content:"Restoring strength and mobility with expert physiotherapy care, now available at your doorstep"
@@ -38,7 +38,7 @@ export const slideData = [
 export const homePageSpecialitiesData = [
   {
     title: "FRACTURE MANAGEMENT",
-    src: "/image/specialities/fracture.png",
+    src: "./public/image/specialities/fracture.png",
     style: {},
     content: "",
   },
@@ -50,67 +50,67 @@ export const homePageSpecialitiesData = [
   },
   {
     title: "ARTHROSCOPIC KEYHOLE SURGERY",
-    src: "/image/specialities/arthroscopy.jpg",
+    src: "./public/image/specialities/arthroscopy.jpg",
     style: {},
     content: "",
   },
   {
     title: "JOINT PAIN CLINIC",
-    src: "/image/specialities/joint-pain.jpg",
+    src: "./public/image/specialities/joint-pain.jpg",
     style: {},
     content: "",
   },
   {
     title: "SPINAL SURGERY",
-    src: "/image/specialities/spine-model.avif",
+    src: "./public/image/specialities/spine-model.avif",
     style: {},
     content: "",
   },
   {
     title: "DISC PROLAPSE NON SURGICAL TREATMENT",
-    src: "/image/specialities/herniated-disc.jpg",
+    src: "./public/image/specialities/herniated-disc.jpg",
     style: {},
     content: "",
   },
   {
     title: "BACK PAIN NON SURGICAL TREATMENT ",
-    src: "/image/specialities/back-pain.jpg",
+    src: "./public/image/specialities/back-pain.jpg",
     style: {},
     content: "",
   },
   {
     title: "PEADIATRIC ORTHO CARE",
-    src: "/image/specialities/pediatric-ortho.jpg",
+    src: "./public/image/specialities/pediatric-ortho.jpg",
     style: {},
     content: "",
   },
   {
     title: "STEMCELL THERAPY",
-    src: "/image/specialities/stem-cell-theraphy.jpg",
+    src: "./public/image/specialities/stem-cell-theraphy.jpg",
     style: {},
     content: "",
   },
   {
     title: "Knee replacement",
-    src: "/image/specialities/knee-replacement.png",
+    src: "./public/image/specialities/knee-replacement.png",
     style: {},
     content: "",
   },
   {
     title: "Hip replacement",
-    src: "/image/specialities/hip-replacement.png",
+    src: "./public/image/specialities/hip-replacement.png",
     style: {},
     content: "",
   },
   {
     title: "Dislocation ",
-    src: "/image/specialities/bone-dislocation.jpg",
+    src: "./public/image/specialities/bone-dislocation.jpg",
     style: {},
     content: "",
   },
   {
     title: "Knee osteotomy",
-    src: "/image/specialities/knee-osteotomy.jpg",
+    src: "./public/image/specialities/knee-osteotomy.jpg",
     style: {},
     content: "",
   },
@@ -120,19 +120,19 @@ export const homePageSpecialitiesData = [
 export const homePageServiceData = [
   {
     title: "Orthopedic",
-    src: "/image/home-service/orthopedic-treatment.jpg",
+    src: "./public/image/home-service/orthopedic-treatment.jpg",
     style: {},
     content: "Providing professional, affordable orthopedic care focused on restoring mobility and ensuring optimal outcomes.",
   },
   {
     title: "Physiotherapy",
-    src: "/image/home-service/physiotherapy.jpg",
+    src: "./public/image/home-service/physiotherapy.jpg",
     style: {},
     content: "Restoring strength and mobility with expert physiotherapy care, now available at your doorstep",
   },
   {
     title: "Blood Collection and X-Ray",
-    src: "/image/home-service/blood-collection-fix.jpg",
+    src: "./public/image/home-service/blood-collection-fix.jpg",
     style: {},
     content: "Accurate X-Ray and blood diagnostics, now conveniently available at your doorstep.",
   },
