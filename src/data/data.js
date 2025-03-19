@@ -2,9 +2,10 @@ import { FaSmile, FaThumbsUp } from "react-icons/fa";
 import { MdWorkHistory } from "react-icons/md";
 import { GiLoveInjection } from "react-icons/gi";
 
+
 export const slideData = [
     {
-      src: "./public/image/slider/operations.jpg",
+      src: "../../public/image/slider/operations.jpg",
       alt: "Doctors working",
       style: { backgroundPosition: "center" },
       content:'Providing professional, affordable orthopedic care focused on restoring mobility and ensuring optimal outcomes.'
@@ -44,7 +45,7 @@ export const homePageSpecialitiesData = [
   },
   {
     title: "SHOULDER REPLACEMENT SURGERY",
-    src: "/image/specialities/shoulder-replacement.png",
+    src: "./public/image/specialities/shoulder-replacement.png",
     style: {},
     content: "",
   },
