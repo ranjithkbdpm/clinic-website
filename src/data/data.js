@@ -4,7 +4,7 @@ import { GiLoveInjection } from "react-icons/gi";
 
 export const slideData = [
     {
-      src: "./image/slider/operations.jpg",
+      src: "./public/image/slider/operations.jpg",
       alt: "Doctors working",
       style: { backgroundPosition: "center" },
       content:'Providing professional, affordable orthopedic care focused on restoring mobility and ensuring optimal outcomes.'
