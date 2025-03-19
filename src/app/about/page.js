@@ -42,7 +42,7 @@ const page = () => {
             <div className="glass-card md:p-6 p-3 doctor-profile md:w-[25%] w-full">
               <div className="rounded-full w-[200px] h-[200px] overflow-hidden relative mx-auto mt-8">
                 <Image
-                  src="/public/image/doctor-pic.avif"
+                  src="./public/image/doctor-pic.avif"
                   alt="doctor-profile"
                   fill
                   style={{ objectFit: "cover", objectPosition: "center" }}
