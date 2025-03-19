@@ -1,5 +1,5 @@
 import Card from "@/app/_components/Card";
-import Image from "next./public/image";
+import Image from "next/image";
 
 const ServicePage = () => {
   const ServiceData = [
