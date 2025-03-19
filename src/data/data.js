@@ -4,31 +4,31 @@ import { GiLoveInjection } from "react-icons/gi";
 
 export const slideData = [
     {
-      src: "/image/slider/operations.jpg",
+      src: "./image/slider/operations.jpg",
       alt: "Doctors working",
       style: { backgroundPosition: "center" },
       content:'Providing professional, affordable orthopedic care focused on restoring mobility and ensuring optimal outcomes.'
     },
     {
-      src: "/image/slider/doctors.jpg",
+      src: "./image/slider/doctors.jpg",
       alt: "Doctors",
       style: { backgroundPosition: "top" },
       content:"Accurate X-Ray and blood diagnostics, now conveniently available at your doorstep."
     },
     {
-      src: "/image/slider/healthcare-concept-clinic.jpg",
+      src: "./image/slider/healthcare-concept-clinic.jpg",
       alt: "Healthcare clinic",
       style: { backgroundPosition: "center" },
       content:"Restoring strength and mobility with expert physiotherapy care, now available at your doorstep"
     },
     {
-      src: "/image/slider/doctors-working.jpg",
+      src: "./image/slider/doctors-working.jpg",
       alt: "Operations",
       style: { backgroundPosition: "top" },
       content:'Serving Humanity With Comprehensive Cutting-Edge Treatment'
     },
     {
-      src: "/image/slider/physio.jpg",
+      src: "./image/slider/physio.jpg",
       alt: "Physiotherapy",
       style: { backgroundPosition: "center" },
       content:"Restoring strength and mobility with expert physiotherapy care, now available at your doorstep"
