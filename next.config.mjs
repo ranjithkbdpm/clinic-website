@@ -1,7 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     // reactStrictMode: true,
-    output:'export',
+
+    // this is for production -  also use ./ for image mapping
+    // output:'export',
 };
 
 export default nextConfig;
