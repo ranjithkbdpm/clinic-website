@@ -99,7 +99,7 @@ export default function Footer() {
           </p>
 
           <p className="text-sm text-neutralGrey">
-            Website developed by [Your Company Name].
+            Website developed by TITO IT Solutions.
           </p>
 
           <div className="flex flex-wrap space-x-4 mt-4 md:mt-0">

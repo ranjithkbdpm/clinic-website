@@ -1,5 +1,6 @@
 import Image from "next/image";
 import { FaMedal } from "react-icons/fa";
+import {profile} from './image/doctor-pic.avif'
 
 const page = () => {
   return (
@@ -46,7 +47,7 @@ const page = () => {
             <div className="glass-card md:p-6 p-3 doctor-profile md:w-[25%] w-full">
               <div className="rounded-full w-[200px] h-[200px] overflow-hidden relative mx-auto mt-8">
                 <Image
-                  src="\public\image\doctor-pic.avif"
+                  src={profile}
                   alt="doctor-profile"
                   fill
                   style={{ objectFit: "cover", objectPosition: "center" }}
