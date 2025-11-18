@@ -70,10 +70,10 @@ const page = () => {
                 About Our Doctor
               </h1>
               <p className="mt-3">
-                Dr.Anandaraj is a highly respected orthopedic surgeon with
+                Dr.[Doctor] is a highly respected orthopedic surgeon with
                 extensive experience in clinical practice and medical education.
                 Having served in reputable medical institutions, Dr.
-                Dr.Anandaraj has contributed significantly to the training of
+                Dr.[Doctor]has contributed significantly to the training of
                 medical students and orthopedic residents. They have completed
                 advanced training in fracture management, joint replacement
                 surgeries of the knee, hip, and shoulder, as well as arthroscopy
@@ -81,7 +81,7 @@ const page = () => {
               </p>
 
               <p className="mt-3">
-                Dr. Dr.Anandaraj is an active member of several national and
+                Dr. Dr.[Doctor] is an active member of several national and
                 international orthopedic associations and has a strong interest
                 in minimally invasive and keyhole surgical techniques. With
                 substantial experience in arthroscopic procedures and sports
@@ -90,7 +90,7 @@ const page = () => {
               </p>
 
               <p className="mt-3">
-                In addition to clinical practice, Dr. Dr.Anandaraj has
+                In addition to clinical practice, Dr. Dr.[Doctor] has
                 contributed to academic and scientific research by delivering
                 numerous scientific presentations and publishing papers in
                 national and international journals. Their work has been
@@ -99,7 +99,7 @@ const page = () => {
               </p>
 
               <p className="mt-3">
-                Dr. Dr.Anandaraj currently serves as a consultant at multiple
+                Dr. Dr.[Doctor] currently serves as a consultant at multiple
                 leading hospitals and healthcare institutions. Their dedication
                 to patient care, continuous learning, and clinical excellence
                 has made them a trusted figure in the field of orthopedic
