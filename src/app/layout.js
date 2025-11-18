@@ -15,8 +15,8 @@ const roboto = Roboto({
 
 
 export const metadata = {
-  title: "Adyar Ortho Clinic",
-  description: "Adyar Ortho Clinic offers expert orthopedic care in Chennai, led by Prof. Dr. A. Shanmuga Sundaram, a renowned Orthopedic Surgeon specializing in Sports Medicine, M.S(Ortho), Mch(Ortho), and PhD(Sports Medicine). Book a consultation with the best orthopedic doctor in Chennai today.",
+  title: "Ortho Clinic",
+  description: "Ortho Clinic offers expert orthopedic care in Chennai, led by Prof. Dr. A. Shanmuga Sundaram, a renowned Orthopedic Surgeon specializing in Sports Medicine, M.S(Ortho), Mch(Ortho), and PhD(Sports Medicine). Book a consultation with the best orthopedic doctor in Chennai today.",
 };
 
 

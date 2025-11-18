@@ -15,7 +15,7 @@ const Header = () => {
       <div className="bg-neutralGrey">
         <div className="font-sans md:flex justify-between text-primary px-3 py-3 bg-ne">
           <div>
-            <h1 className="text-4xl font-bold">Adayar Ortho Clinic</h1>
+            <h1 className="text-4xl font-bold">Ortho Clinic</h1>
             <p className="text-lg text-secondary">
               Dedicated to your health and well-being.
             </p>
@@ -60,13 +60,13 @@ const Header = () => {
                 <span className="mt-1">
                   <FaPhone />
                 </span>
-                <span>+91 9962 66 77 44</span>
+                <span>+91 99446677889</span>
               </div>
               <div className="flex space-x-1 align-middle">
                 <span className="mt-1">
                   <FaMailBulk />
                 </span>
-                <span>info@adyarorthoclinic.com</span>
+                <span>info@orthoclinic.com</span>
               </div>
             </div>
           </div>

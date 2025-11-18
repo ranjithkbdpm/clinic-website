@@ -70,31 +70,33 @@ export default function Home() {
               About Us
             </h1>
             <p className="md:mt-6 md:text-2xl">
-              Adyar Ortho Clinic (AOC) is the vision of{" "}
-              <b>Prof. Dr. A. Shanmuga Sundaram</b>, established with the
-              mission of delivering comprehensive and exceptional outpatient
-              care. Our clinic is equipped with state-of-the-art facilities,
-              including X-Ray services, Physiotherapy, and a Blood Collection
-              Centre (Med All)
+              [Clinic Name] was established with the mission of delivering
+              comprehensive and exceptional outpatient orthopedic care. The
+              clinic is equipped with modern facilities, including X-Ray
+              services, Physiotherapy, and a dedicated Blood Collection Centre,
+              ensuring convenient access to essential diagnostics.
             </p>
+
             <p className="md:mt-6 md:text-2xl">
-              At AOC, we are dedicated to providing the highest standard of care
-              by offering all essential medical services under one roof. For
-              added convenience, we extend home visit services for X-Ray,
+              We are committed to providing the highest standard of care by
+              offering a wide range of medical services under one roof. For
+              added convenience, we also provide home visit services for X-Ray,
               Physiotherapy, and Blood Collection. To schedule a home visit,
-              please contact us at 9962667744.
+              kindly contact our support team.
             </p>
+
             <p className="md:mt-6 md:text-2xl">
-              For patients requiring surgical interventions, we facilitate
-              admissions to leading corporate hospitals based on individual
-              needs.
+              For patients requiring surgical treatment, we coordinate
+              admissions with leading hospitals based on individual patient
+              needs and treatment recommendations.
             </p>
+
             <p className="md:mt-6 md:text-2xl">
-              We are also partnered with numerous cashless insurance providers,
-              ensuring a seamless experience for our patients. Additionally, as
-              part of our professional commitment to Medical Tourism, we proudly
-              serve patients from across the globe, offering expert care
-              tailored to international standards.
+              Our clinic is associated with multiple cashless insurance
+              providers, ensuring a streamlined and stress-free experience. As
+              part of our commitment to global healthcare standards, we also
+              support medical tourism and provide services to patients from
+              around the world with personalized and expert care.
             </p>
           </div>
         </div>
@@ -111,7 +113,7 @@ export default function Home() {
               {`"Delivering exceptional patient care, advanced surgical expertise, top-quality treatment at an affordable price with strong medical ethics, and ensuring that expert healthcare is accessible to all citizens"`}
             </h1>
             <small className="text-neutralWhite text-xl font-bold">
-              Adayar Ortho Clinic
+              Ortho Clinic
             </small>
           </div>
         </div>
