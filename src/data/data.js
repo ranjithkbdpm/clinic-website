@@ -1,7 +1,6 @@
 import { FaSmile, FaThumbsUp } from "react-icons/fa";
 import { MdWorkHistory } from "react-icons/md";
 import { GiLoveInjection } from "react-icons/gi";
-import {img} from '../../public./image/slider/doctors-working.jpg'
 
 
 export const slideData = [
