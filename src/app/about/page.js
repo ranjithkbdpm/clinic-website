@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { FaMedal } from "react-icons/fa";
-import {profile} from '../../../public/image/doctor/profile.jpg';
+import {profile} from '../../../public/image/doctor-pic.avif';
 
 const page = () => {
   return (
