@@ -6,13 +6,13 @@ import {img} from '../../public/image/slider/doctors-working.jpg'
 
 export const slideData = [
     {
-      src: "../../public/image/slider/operations.jpg",
+      src: "./image/slider/operations.jpg",
       alt: "Doctors working",
       style: { backgroundPosition: "center" },
       content:'Providing professional, affordable orthopedic care focused on restoring mobility and ensuring optimal outcomes.'
     },
     {
-      src: "../../public/image/slider/doctors.jpg",
+      src: "./image/slider/doctors.jpg",
       alt: "Doctors",
       style: { backgroundPosition: "top" },
       content:"Accurate X-Ray and blood diagnostics, now conveniently available at your doorstep."
