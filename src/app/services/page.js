@@ -5,171 +5,171 @@ const ServicePage = () => {
   const ServiceData = [
     {
       title: "Joint replacements",
-      src: "./public./public/image/Orthopedic/Joint-replacement.jpg",
+      src: "./image/Orthopedic/Joint-replacement.jpg",
     },
     {
       title: "Paediatric orthopaedic",
-      src: "./public/image/Orthopedic/Paediatric orthopaedic.jpg",
+      src: "./image/Orthopedic/Paediatric orthopaedic.jpg",
     },
     {
       title: "Spine surgery",
-      src: "./public/image/Orthopedic/Spine Surgery.Jpeg",
+      src: "./image/Orthopedic/Spine Surgery.Jpeg",
     },
     {
       title: "Fractures",
-      src: "./public/image/Orthopedic/Fractures.jpeg",
+      src: "./image/Orthopedic/Fractures.jpeg",
     },
     {
       title: " Hip fractures",
-      src: "./public/image/Orthopedic/Hip-Fracture.jpg",
+      src: "./image/Orthopedic/Hip-Fracture.jpg",
     },
     {
       title: "Arthritis",
-      src: "./public/image/Orthopedic/Arthritis.jpg",
+      src: "./image/Orthopedic/Arthritis.jpg",
     },
     {
       title: "Tennis elbow",
-      src: "./public/image/Orthopedic/Tennis elbow.jpg",
+      src: "./image/Orthopedic/Tennis elbow.jpg",
     },
     {
       title: "Golfers elbow",
-      src: "./public/image/Orthopedic/Golfer-elbow.jpeg",
+      src: "./image/Orthopedic/Golfer-elbow.jpeg",
     },
     {
       title: "Soft tissue injuries",
-      src: "./public/image/Orthopedic/Soft Tissue.jpg",
+      src: "./image/Orthopedic/Soft Tissue.jpg",
     },
     {
       title: "Ligament injuries",
-      src: "./public/image/Orthopedic/LigamentInjuries.jpg",
+      src: "./image/Orthopedic/LigamentInjuries.jpg",
     },
     {
       title: "Elbow pain and problems",
-      src: "./public/image/Orthopedic/Elbow-Pain.jpg",
+      src: "./image/Orthopedic/Elbow-Pain.jpg",
     },
     {
       title: "Foot pain and problems",
-      src: "./public/image/Orthopedic/FootPain.jpeg",
+      src: "./image/Orthopedic/FootPain.jpeg",
     },
     {
       title: "Low back pain",
-      src: "./public/image/Orthopedic/Low-Back-Pain.jpeg",
+      src: "./image/Orthopedic/Low-Back-Pain.jpeg",
     },
     {
       title: "Hand pain and problems",
-      src: "./public/image/Orthopedic/Wrist Hand Pain.jpg",
+      src: "./image/Orthopedic/Wrist Hand Pain.jpg",
     },
     {
       title: "Shoulder pain and problems",
-      src: "./public/image/Orthopedic/Shoulder-Pain.jpg",
+      src: "./image/Orthopedic/Shoulder-Pain.jpg",
     },
     {
       title: "Knee pain and problems",
-      src: "./public/image/Orthopedic/KneePain.jpg",
+      src: "./image/Orthopedic/KneePain.jpg",
     },
     {
       title: "Neck pain and problems",
-      src: "./public/image/Orthopedic/NeckPain.jpg",
+      src: "./image/Orthopedic/NeckPain.jpg",
     },
     {
       title: "Heel pain",
-      src: "./public/image/Orthopedic/HeelPain.Jpeg",
+      src: "./image/Orthopedic/HeelPain.Jpeg",
     },
     {
       title: "Fractures in children",
-      src: "./public/image/Orthopedic/broken-arm child.jpg",
+      src: "./image/Orthopedic/broken-arm child.jpg",
     },
     {
       title: "Growth related disorders",
-      src: "./public/image/Orthopedic/GrowthDisorder.jpeg",
+      src: "./image/Orthopedic/GrowthDisorder.jpeg",
     },
   ];
   const ServiceData1 = [
     {
       title: "INTERFERENCIAL THERAPY (IFT)",
-      src: "./public/image/Physio Theraphy/IFT Physiotherapy.jpeg",
+      src: "./image/Physio Theraphy/IFT Physiotherapy.jpeg",
     },
     {
       title: "INTERMITTENT CERVICAL TRACTION (ICT)",
-      src: "./public/image/Physio Theraphy/INTERMITTENT CERVICAL.jpeg",
+      src: "./image/Physio Theraphy/INTERMITTENT CERVICAL.jpeg",
     },
     {
       title: "INTERMITTENT PELVIC TRACTION (IPT)",
-      src: "./public/image/Physio Theraphy/OPTIMAL PELVIC TRACTION.jpeg",
+      src: "./image/Physio Theraphy/OPTIMAL PELVIC TRACTION.jpeg",
     },
     {
       title: "ULTRASOUND THERAPY(UST)",
-      src: "./public/image/Physio Theraphy/Ultra sound Therapy.jpeg",
+      src: "./image/Physio Theraphy/Ultra sound Therapy.jpeg",
     },
     {
       title: "ACUTENS (TENS)",
-      src: "./public/image/Physio Theraphy/ACUTENS.jpeg",
+      src: "./image/Physio Theraphy/ACUTENS.jpeg",
     },
     {
       title: "ELECTRICAL MUSCLE STIMULATION (EMS)",
-      src: "./public/image/Physio Theraphy/Electrical Muscle stimulation.jpeg",
+      src: "./image/Physio Theraphy/Electrical Muscle stimulation.jpeg",
     },
     {
       title: "WAX THERAPY",
-      src: "./public/image/Physio Theraphy/Wax Threaphy.jpeg",
+      src: "./image/Physio Theraphy/Wax Threaphy.jpeg",
     },
     {
       title: "LASER",
-      src: "./public/image/Physio Theraphy/Laser Physiotheraphy.jpeg",
+      src: "./image/Physio Theraphy/Laser Physiotheraphy.jpeg",
     },
   ];
   const ServiceData2 = [
     {
       title: "Sports rehabilitation",
-      src: "./public/image/Rehabliation/Sports-Rehabilitation.jpeg",
+      src: "./image/Rehabliation/Sports-Rehabilitation.jpeg",
     },
     {
       title: "Pain mangement techniques",
-      src: "./public/image/Rehabliation/Pain Management therpies.jpeg",
+      src: "./image/Rehabliation/Pain Management therpies.jpeg",
     },
     {
       title: "Personalised rehabilitation  plan",
-      src: "./public/image/Rehabliation/Personalised Rehabilition.jpeg",
+      src: "./image/Rehabliation/Personalised Rehabilition.jpeg",
     },
     {
       title: "Injury prevention mangement",
-      src: "./public/image/Rehabliation/Injury Prevention.jpeg",
+      src: "./image/Rehabliation/Injury Prevention.jpeg",
     },
     {
       title: "Ortho,Neuro & Spine related Rehabilitation",
-      src: "./public/image/Rehabliation/Ortho Neuro Spine.jpeg",
+      src: "./image/Rehabliation/Ortho Neuro Spine.jpeg",
     },
     {
       title: "Fitness training",
-      src: "./public/image/Rehabliation/Fitness Training.jpeg",
+      src: "./image/Rehabliation/Fitness Training.jpeg",
     },
     {
       title: "Weight loss",
-      src: "./public/image/Rehabliation/weight-loss-journey.jpeg",
+      src: "./image/Rehabliation/weight-loss-journey.jpeg",
     },
     {
       title: "Strengthening exercises",
-      src: "./public/image/Rehabliation/Strenthening.jpeg",
+      src: "./image/Rehabliation/Strenthening.jpeg",
     },
     {
       title: "Posture correction",
-      src: "./public/image/Rehabliation/posture-correction.jpeg",
+      src: "./image/Rehabliation/posture-correction.jpeg",
     },
     {
       title: "Ergonomics",
-      src: "./public/image/Rehabliation/Ergonomics.jpeg",
+      src: "./image/Rehabliation/Ergonomics.jpeg",
     },
     {
       title: "Pre & post operativerehab",
-      src: "./public/image/Rehabliation/rehab.jpeg",
+      src: "./image/Rehabliation/rehab.jpeg",
     },
     {
       title: "Pre & post natal exercise",
-      src: "./public/image/Rehabliation/Pre-Post Natal Rehab.jpeg",
+      src: "./image/Rehabliation/Pre-Post Natal Rehab.jpeg",
     },
     {
       title: "Paediatric & geriatric physiotherapy",
-      src: "./public/image/Rehabliation/Paediatric Physiotheraphy.jpeg",
+      src: "./image/Rehabliation/Paediatric Physiotheraphy.jpeg",
     },
   ];
 
